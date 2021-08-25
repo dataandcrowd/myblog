@@ -5,7 +5,7 @@ action_type: text
 description: Hello and Welcome to my Webpage!
 image_left: true
 images:
-- img/hyesop.png
+- img/hyesop.jpeg
 show_action_link: true
 show_social_links: true
 subtitle: 
