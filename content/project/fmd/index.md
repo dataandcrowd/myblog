@@ -23,7 +23,7 @@ tags:
 title: FMD
 ---
 
-![Foot-and-Mouth Disease](FMD.png)
+![Foot-and-Mouth Disease](fmd.png)
 
 
 
